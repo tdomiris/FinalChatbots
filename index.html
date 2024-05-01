@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <style>
+    /* Add styles here */
+    #pdfViewer {
+      position: absolute;
+      top: 170px; 
+      left: 800px; 
+      width: 500px; 
+      height: 400px; 
+      border: 1px solid #000;
+    }
+  </style>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sketch</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script src="libraries/p5.min.js"></script>
+    <script src="libraries/p5.sound.min.js"></script>
+    <script src="https://unpkg.com/rivescript@latest/dist/rivescript.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/IDMNYU/p5.js-speech@0.0.3/lib/p5.speech.js"></script>
+  </head>
+
+  <body>
+    <div id="p5Canvas">
+      <!-- p5.js canvas will be inserted here -->
+    </div>
+    <iframe id="pdfViewer" src="script-7.pdf"></iframe>
+    <script src="sketch.js"></script>
+
+    <div id="mainContent">
+      <!-- All other webpage content goes here -->
+    </div>
+
+    <div id="instructionBox">
+      <p>Welcome to the "Acting with Chatbot" experience, which will help you to develop your acting skills. The scene in this acting practice comes from the "Pride and Prejudice" film (2005), where Elizabeth rejects Mr. Darcy's proposal. You are Elizabeth and chatbot is Mr. Darcy. To begin, press the start button and read the first line in the script. Speak clearly and confidently. If chatbot doesn't reply at any time, repeat the last sentence in your lines. </p>
+      <button id="gotItButton">GOT IT</button>
+    </div>
+
+  
+  </body>
+</html>
+
+
+
+
+

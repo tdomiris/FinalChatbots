@@ -1,0 +1,64 @@
+! version = 2.0
+
+! sub i'm     = i am
+! sub i'd     = i would
+! sub i've    = i have
+! sub i'll    = i will
+! sub don't   = do not
+! sub isn't   = is not
+! sub you'd   = you would
+! sub you're  = you are
+! sub you've  = you have
+! sub you'll  = you will
+! sub what's  = what is
+! sub whats   = what is
+! sub what're = what are
+! sub what've = what have
+! sub what'll = what will
+! sub who's   = who is
+
++ [*]hello[*]
+- Hi there human!
+- Good morning!
+- Hey you!
+
++ *
+- no reply
+
++ [*]expect|see|here[*]
+- Miss Elizabeth, I have struggled in vain and I can bear it no longer. These past months have been a torment. I fought against my better judgment, my family’s expectation, the inferiority - your birth, my rank, and circumstance - all these things that I am willing to put aside and ask you to end my agony.
+
++ [*]do not|understand[*]
+- I love you…Most hardly. Please do me the honor of accepting my hand. 
+
++ [*]believe|unconsciously|done[*]
+- Is this your reply?
+
++ [*]yes|sir[*]
+- Are you laughing at me?
+
++ [*]no[*]
+- Are you rejecting me?
+
++ [*]regard|help|overcoming[*]
+- Might I ask why would so little endeavor civility i must repulse?
+
++ [*]against|better|judgement|like[*]
+- No, believe me
+
++ [*]reasons|know[*]
+- What reasons?
+
++ [*]sister|deny[*]
+- I do not deny it. Could you expect me to rejoice in the inferiority of your circumstances?
+
++ [*]prevailed|upon|marry[*]
+- Forgive me…madam, for taking up so much of your time. 
+
+
+
+
+
+
+
+
